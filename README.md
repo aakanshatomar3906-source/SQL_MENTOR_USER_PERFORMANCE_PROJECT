@@ -1,1 +1,1 @@
-# SQL_MENTOR_USER_PERFORMANCE_PROJECT
+# Retail Sales Analysis SQL project
